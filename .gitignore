@@ -94,7 +94,8 @@ fabric.properties
 
 # IntelliJ file
 *.iml
-.idea
+/.idea
+/out
 
 # Mac folder
 .DS_store
