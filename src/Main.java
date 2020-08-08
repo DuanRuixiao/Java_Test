@@ -6,5 +6,6 @@ public class Main {
         int ans = solution.twoSum(nums);
 
         System.out.println(ans);
+        System.out.println("feature1");
     }
 }
